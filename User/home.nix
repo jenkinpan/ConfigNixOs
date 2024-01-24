@@ -2,7 +2,7 @@
 
 {
   imports = [
-    ./User/zsh.nix
+    ./zsh.nix
   ];
 
   home.username = "jenkin";
