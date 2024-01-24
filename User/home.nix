@@ -15,6 +15,7 @@
   home.packages = with pkgs; [
     go-musicfox
     tree
+	neovide
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
