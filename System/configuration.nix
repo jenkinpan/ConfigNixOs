@@ -102,6 +102,7 @@
     vim
     wget
     unzip
+	gpared
     neovim
     nerdfonts
     neofetch
