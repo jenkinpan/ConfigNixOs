@@ -15,7 +15,7 @@
   home.packages = with pkgs; [
     go-musicfox
     tree
-	github-cli
+    github-cli
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
